@@ -9,3 +9,4 @@ this is a simple and fast coding question game created using javascript
 
 ## Links 
 https://github.com/AlexWatabe9/Coding-Quiz
+https://alexwatabe9.github.io/Coding-Quiz/
